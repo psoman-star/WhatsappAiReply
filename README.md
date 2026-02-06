@@ -94,13 +94,7 @@
 <img src="https://i.ibb.co/Q7t2qKrt/06.png" alt="WhatsApp AI chatbot auto reply   customer support bot for business" />
 
 
-<h2><strong>🎯 Ideal For</strong></h2>
-<ul>
-    <li>Digital marketing agencies</li>
-    <li>E-commerce stores</li>
-    <li>Enterprises managing customer service</li>
-    <li>Freelancers offering chatbot/automation services</li>
-</ul>
+ 
 
 
 <h2><strong>❓ FAQ</strong></h2>
